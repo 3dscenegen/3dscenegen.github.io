@@ -1,1 +1,0 @@
-# 3dscenegen.github.io
