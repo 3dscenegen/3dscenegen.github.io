@@ -257,6 +257,25 @@ acknowledgements: ""
 </div><br>
 
 <div class="row">
+  <div class="col-md-12">
+    <b>Industry Participants</b>
+    <p>The workshop also features presentations by representatives of the following companies:</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4">
+    <a href="https://wayfair.com/"><img src="{{ "/static/img/wayfair.png" | prepend:site.baseurl }}"></a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://modsy.com/"><img src="{{ "/static/img/modsy.png" | prepend:site.baseurl }}"></a>
+  </div>
+  <div class="col-md-4">
+    <a href="https://zillow.com/"><img src="{{ "/static/img/zillow.png" | prepend:site.baseurl }}"></a>
+  </div>
+</div><br>
+
+
+<div class="row">
   <div class="col-xs-12">
     <h2>Organizers</h2>
   </div>
