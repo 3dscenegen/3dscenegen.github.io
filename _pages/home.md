@@ -13,7 +13,7 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>3D Scene Genneration</h1></center>
+    <center><h1>3D Scene Generation</h1></center>
     <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center>
   </div>
@@ -37,7 +37,13 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Introduction text
+      People spend a large percentage of their lives indoors---in bedrooms, living rooms, offices, kitchens, and other such spaces---and the demand for virtual versions of these real-world spaces has never been higher. Game developers, VR/AR designers, architects, and interior design firms are all increasingly making use virtual 3D scenes for prototyping and final products. Furthermore, AI/vision/robotics researchers are also turning to virtual environments to train data-hungry models for tasks such as visual navigation, 3D reconstruction, activity recognition, and more.
+    </p>
+    <p>
+      As the vision community turns from passive internet-images-based vision tasks to applications such as the ones listed above, the need for virtual 3D environments becomes critical. The community has recently benefited from large scale datasets of both synthetic 3D environments [6] and reconstructions of real spaces [2, 3, 7, 9], and the development of 3D simulation frameworks for studying embodied agents [1, 4, 5, 8]. While these existing datasets are a valuable resource, they are also finite in size and don't adapt to the needs of different vision tasks. To enable large-scale embodied visual learning in 3D environments, we must go beyond such static datasets and instead pursue the automatic synthesis of novel, task-relevant virtual environments.
+    </p>
+    <p>
+      In this workshop, we aim to bring together researchers working on automatic generation of 3D environments for computer vision research with researchers who are making use of 3D environment data for a variety of computer vision tasks. We define "generation of 3D environments" to include methods that generate 3D scenes from sensory inputs (e.g. images) or from high-level specifications (e.g. "a chic apartment for two people"). Vision tasks that consume such data include automatic scene classification and segmentation, 3D reconstruction, human activity recognition, robotic visual navigation, and more.
     </p>
   </div>
 </div> <br>   
@@ -349,8 +355,53 @@ acknowledgements: ""
     <h2>References</h2>
   </div>
 </div>
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
   TBD
   </div>
-</div>
+</div> -->
+
+{:.paper}
+<span>[1] Gibson env: real-world perception for embodied agents</span>{:.papertitle}  
+<span>F. Xia, A. R. Zamir, Z.Y. He, A. Sax, J. Malik, and S. Savarese</span>{:.authors}  
+<span>Computer Vision and Pattern Recognition (CVPR), 2018 IEEE Conference on, IEEE, 2018</span>{:.journal}  
+
+{:.paper}
+<span>[2] Matterport3D: Learning from RGB-D Data in Indoor Environments</span>{:.papertitle}  
+<span>A. Chang, A. Dai, T. Funkhouser, M. Halber, M. Niessner, M. Savva, S. Song, A. Zeng, and Y. Zhang</span>{:.authors}  
+<span>_International Conference on 3D Vision (3DV)_, 2017</span>{:.journal}  
+
+{:.paper}
+<span>[3] Joint 2D-3D-semantic data for indoor scene understanding</span>{:.papertitle}  
+<span>I. Armeni, S. Sax, A.R. Zamir, and S. Savarese</span>{:.authors}  
+<span>_arXiv preprint arXiv:1702.01105_, 2017</span>{:.journal}  
+
+{:.paper}
+<span>[4] MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments</span>{:.papertitle}  
+<span>M. Savva, A.X. Chang, A. Dosovitskiy, T. Funkhouser, and V. Koltun</span>{:.authors}  
+<span>_arXiv:1712.03931_, 2017</span>{:.journal}  
+
+{:.paper}
+<span>[5] AI2-THOR: An interactive 3D environment for visual AI</span>{:.papertitle}  
+<span>E. Kolve, R. Mottaghi, D. Gordon, Y. Zhu, A. Gupta, and A. Farhadi</span>{:.authors}  
+<span>_arXiv preprint arXiv:1712.05474_, 2017</span>{:.journal}  
+
+{:.paper}
+<span>[6] Semantic scene completion from a single depth image</span>{:.papertitle}  
+<span>S. Song, F. Yu, A. Zeng, A.X. Chang, M. Savva, and T. Funkhouser</span>{:.authors}  
+<span>Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2017</span>{:.journal}  
+
+{:.paper}
+<span>[7] ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes</span>{:.papertitle}  
+<span>A. Dai, A.X. Chang, M. Savva, M. Halber, T. Funkhouser, and M. Nießner</span>{:.authors}  
+<span>Proc. Computer Vision and Pattern Recognition (CVPR), IEEE, 2017</span>{:.journal}  
+
+{:.paper}
+<span>[8]  CARLA: An Open Urban Driving Simulator</span>{:.papertitle}  
+<span>A. Dosovitskiy, G. Ros, F. Codevilla, A. Lopez, and V. Koltun</span>{:.authors}  
+<span>1--16, Proceedings of the 1st Annual Conference on Robot Learning, 2017</span>{:.journal}  
+
+{:.paper}
+<span>[9] SceneNN: A Scene Meshes Dataset with aNNotations</span>{:.papertitle}  
+<span>B.S. Hua, Q.H. Pham, D.T. Nguyen, M.K. Tran, L.F. Yu, and S.K. Yeung</span>{:.authors}  
+<span>International Conference on 3D Vision (3DV), 2016</span>{:.journal}  
