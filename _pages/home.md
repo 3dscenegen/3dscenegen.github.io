@@ -55,7 +55,26 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-12">
-    <p>TBA</p>
+    <p>
+      <span style="font-weight:500;">Call for papers:</span> We invite extended abstracts for work on tasks related to 3D scene generation or tasks leveraging generated 3D scenes.
+      Paper topics may include but are not limited to:
+    </p>
+    <ul>
+      <li>Generative models for 3D scene synthesis</li>
+      <li>Synthesis of 3D scenes from sensor inputs</li>
+      <li>3D scene understanding based on synthetic 3D scene data</li>
+      <li>Completion of 3D scenes or objects in 3D scenes</li>
+      <li>Use of 3D scenes for simulation targeted to learning in computer vision, robotics, and cognitive science</li>
+    </ul>
+    <p>
+      <span style="font-weight:500;">Submission:</span> we encourage submissions of up to 6 pages excluding references and acknowledgements.
+      The submission should be in the CVPR format.
+      Reviewing will be single blind.
+      Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+      We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
+      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegen@gmail.com">3dscenegen@gmail.com</a></span>
+      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
+    </p>
   </div>
 </div><br>
 
@@ -71,11 +90,11 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>March 15 2019</td>
+          <td>March 29 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>March 31 2019</td>
+          <td>April 3 2019</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
@@ -235,14 +254,14 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-12">
     <a href="https://www.cse.iitb.ac.in/~sidch/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a></b> is a Senior Research Scientist at Adobe Research, and Assistant Professor (on leave) of Computer Science and Engineering at IIT Bombay. His research focuses on richer tools for designing three-dimensional objects, particularly by novice and casual users, and on related problems in 3D shape understanding, synthesis and reconstruction. He received his PhD from Stanford University, followed by a postdoc at Princeton and a year teaching at Cornell. Apart from basic research, he is also the original author of the commercial 3D modeling package Adobe Fuse.
     </p>
   </div>
-</div><br>
+</div><br> -->
 
 <div class="row">
   <div class="col-md-12">
