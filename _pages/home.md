@@ -61,9 +61,11 @@ acknowledgements: ""
     </p>
     <ul>
       <li>Generative models for 3D scene synthesis</li>
-      <li>Synthesis of 3D scenes from sensor inputs</li>
+      <li>Synthesis of 3D scenes from sensor inputs (e.g., images, videos, or scans)</li>
+      <li>Representations for 3D scenes</li>
       <li>3D scene understanding based on synthetic 3D scene data</li>
       <li>Completion of 3D scenes or objects in 3D scenes</li>
+      <li>Learning from real world data for improved models of virtual worlds</li>
       <li>Use of 3D scenes for simulation targeted to learning in computer vision, robotics, and cognitive science</li>
     </ul>
     <p>
