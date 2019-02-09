@@ -72,7 +72,7 @@ acknowledgements: ""
       Reviewing will be single blind.
       Accepted extended abstracts will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
-      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegen@gmail.com">3dscenegen@gmail.com</a></span>
+      Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
       Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
     </p>
   </div>
