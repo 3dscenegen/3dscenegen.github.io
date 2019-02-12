@@ -92,15 +92,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>March 29 2019</td>
+          <td>May 17 2019</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>April 3 2019</td>
+          <td>May 31 2019</td>
         </tr>
         <tr>
           <td>Camera-Ready Deadline</td>
-          <td>April 10 2019</td>
+          <td>June 7 2019</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
