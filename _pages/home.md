@@ -15,7 +15,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>3D Scene Generation</h1></center>
     <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
-    <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center>
+    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
+    <center>Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
   </div>
 </div>
 
