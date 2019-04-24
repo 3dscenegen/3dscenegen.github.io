@@ -291,14 +291,17 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-md-4">
-    <a href="https://wayfair.com/"><img src="{{ "/static/img/wayfair.png" | prepend:site.baseurl }}"></a>
+  <div class="col-md-3">
+    <a href="https://planner5d.com/"><img src="/static/img/p5d.png" /></a>
   </div>
-  <div class="col-md-4">
-    <a href="https://modsy.com/"><img src="{{ "/static/img/modsy.png" | prepend:site.baseurl }}"></a>
+  <div class="col-md-3">
+    <a href="https://wayfair.com/"><img src="/static/img/wayfair.png" /></a>
   </div>
-  <div class="col-md-4">
-    <a href="https://zillow.com/"><img src="{{ "/static/img/zillow.png" | prepend:site.baseurl }}"></a>
+  <div class="col-md-3">
+    <a href="https://modsy.com/"><img src="/static/img/modsy.png" /></a>
+  </div>
+  <div class="col-md-3">
+    <a href="https://zillow.com/"><img src="/static/img/zillow.png" /></a>
   </div>
 </div><br>
 
