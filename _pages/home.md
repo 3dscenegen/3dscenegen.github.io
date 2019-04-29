@@ -1,6 +1,6 @@
 ---
 layout: project
-urltitle:  "3D Scene Genneration"
+urltitle:  "3D Scene Generation"
 title: "3D Scene Generation"
 categories: cvpr, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, natural language processing, reinforcement learning
 permalink: /
