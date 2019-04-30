@@ -105,7 +105,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 17 2019</td>
+          <td>June 16 2019</td>
         </tr>
       </tbody>
     </table>
