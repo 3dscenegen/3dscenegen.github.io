@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "3D Scene Genneration"
-title: "3D Scene Genneration"
+urltitle:  "3D Scene Generation"
+title: "3D Scene Generation"
 categories: cvpr, workshop, computer vision, computer graphics, visual learning, simulation environments, robotics, machine learning, natural language processing, reinforcement learning
 permalink: /
 favicon: /static/img/ico/favicon.png
@@ -15,7 +15,8 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>3D Scene Generation</h1></center>
     <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
-    <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center>
+    <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
+    <center>Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
   </div>
 </div>
 
@@ -104,7 +105,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 17 2019</td>
+          <td>June 16 2019</td>
         </tr>
       </tbody>
     </table>
@@ -290,14 +291,17 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-md-4">
-    <a href="https://wayfair.com/"><img src="{{ "/static/img/wayfair.png" | prepend:site.baseurl }}"></a>
+  <div class="col-md-3">
+    <a href="https://planner5d.com/"><img src="/static/img/p5d.png" /></a>
   </div>
-  <div class="col-md-4">
-    <a href="https://modsy.com/"><img src="{{ "/static/img/modsy.png" | prepend:site.baseurl }}"></a>
+  <div class="col-md-3">
+    <a href="https://wayfair.com/"><img src="/static/img/wayfair.png" /></a>
   </div>
-  <div class="col-md-4">
-    <a href="https://zillow.com/"><img src="{{ "/static/img/zillow.png" | prepend:site.baseurl }}"></a>
+  <div class="col-md-3">
+    <a href="https://modsy.com/"><img src="/static/img/modsy.png" /></a>
+  </div>
+  <div class="col-md-3">
+    <a href="https://zillow.com/"><img src="/static/img/zillow.png" /></a>
   </div>
 </div><br>
 
