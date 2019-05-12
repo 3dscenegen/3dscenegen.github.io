@@ -256,14 +256,14 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<!-- <div class="row">
+<div class="row">
   <div class="col-md-12">
     <a href="https://www.cse.iitb.ac.in/~sidch/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sid.png" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.cse.iitb.ac.in/~sidch/">Siddhartha Chaudhuri</a></b> is a Senior Research Scientist at Adobe Research, and Assistant Professor (on leave) of Computer Science and Engineering at IIT Bombay. His research focuses on richer tools for designing three-dimensional objects, particularly by novice and casual users, and on related problems in 3D shape understanding, synthesis and reconstruction. He received his PhD from Stanford University, followed by a postdoc at Princeton and a year teaching at Cornell. Apart from basic research, he is also the original author of the commercial 3D modeling package Adobe Fuse.
     </p>
   </div>
-</div><br> -->
+</div><br>
 
 <div class="row">
   <div class="col-md-12">
