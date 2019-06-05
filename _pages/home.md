@@ -197,7 +197,185 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-md-12">
-  TBD
+    <span style="font-weight:200;">DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</span><br>
+    Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences</span><br>
+    Ameya Phalak, Zhao Chen, Darvin Yi, Khushi Gupta, Vijay Badrinarayanan, Andrew Rabinovich
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Learning a Generative Model for Multi-Step Human-Object Interactions from
+      Videos</span><br>
+    He Wang, Sören Pirk, Ersin Yumer, Vladimir G. Kim, Ozan Sener, Srinath Sridhar, Leonidas J. Guibas
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Scenic: A Language for Scenario Specification and Scene Generation</span><br>
+    Daniel J. Fremont, Xiangyu Yue, Tommaso Dreossi, Shromona Ghosh, Alberto L. Sangiovanni-Vincentelli, Sanjit A.
+    Seshia
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data
+      Augmentation</span><br>
+    Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Towards Training Person Detectors from Synthetic RGB-D Data</span><br>
+    Timm Linder, Michael Johan Hernandez Leon, Narunas Vaskevicius, Kai O. Arras
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid
+      Pooling</span><br>
+    Krisha Mehta, Yash Kotadia
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Learning to Encode Spatial Relations from Natural Language</span><br>
+    Tiago Ramalho, Tomas Kocisky, Frederic Besse, S. M. Ali Eslami, Gabor Melis, Fabio Viola, Phil Blunsom, Karl Moritz
+    Hermann
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments</span><br>
+    Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, and Jan Kautz
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">The RobotriX: A Large-scale Dataset of Embodied Robots in Virtual Reality</span><br>
+    Alberto Garcia-Garcia, Pablo Martinez-Gonzalez, Sergiu Oprea, John A. Castro-Vargas, Sergio Orts-Escolano, Alvaro
+    Jover-Alvarez, Jose Garcia-Rodriguez
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Revealing Scenes by Inverting Structure from Motion Reconstructions</span><br>
+    Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding</span><br>
+    Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image</span><br>
+    Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout</span><br>
+    Yifei Shi, Angel Xuan Chang, Zhelun Wu, Manolis Savva, Kai Xu
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Shape2Motion: Joint Analysis of Motion Parts and Attributes from 3D Shapes</span><br>
+    Xiaogang Wang, Bin Zhou, Yahao Shi, Xiaowu Chen, Qinping Zhao, Kai Xu
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks</span><br>
+    Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D
+      Object Understanding</span><br>
+    Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Learning Implicit Fields for Generative Shape Modeling</span><br>
+    Zhiqin Chen, Hao Zhang
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Learning 3D Human Dynamics from Video</span><br>
+    Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">PCN: Point Completion Network</span><br>
+    Wentao Yuan, Tejas Khot, David Held, Christoph Mertz, Martial Hebert
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">TextureNet: Consistent Local Parametrizations for Learning from High-Resolution
+      Signals on Meshes </span><br>
+    Jingwei Huang, Haotian Zhang, Li Yi, Thomas Funkhouser, Matthias Niessner, Leonidas Guibas
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+    <span style="font-weight:200;">Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative
+      Models</span><br>
+    Daniel Ritchie, Kai Wang, Yu-an Lin
   </div>
 </div>
 
