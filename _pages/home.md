@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>3D Scene Generation</h1></center>
     <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
     <!-- <center><span style="color:#e74c3c;font-weight:400;">Time and location TBA</span></center> -->
-    <center>Sunday June 16 2019, 8:45am -- 5:40pm, <span style="color:#e74c3c;font-weight:400;">location TBA</span></center>
+    <center>Sunday June 16 2019, 8:45am -- 5:40pm, 103A</center>
   </div>
 </div>
 
@@ -127,64 +127,60 @@ acknowledgements: ""
           <td>8:45am - 9:00am</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 1</td>
+          <td>Invited Talk 1: Daniel Aliaga</td>
           <td>9:00am - 9:25am</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 2</td>
+          <td>Invited Talk 2: Angela Dai</td>
           <td>9:25am - 9:50am</td>
         </tr>
         <tr>
           <td>Spotlight Talks (x3)</td>
-          <td>9:50am - 10:10am</td>
+          <td>9:50am - 10:05am</td>
         </tr>
         <tr>
           <td>Coffee Break and Poster Session</td>
-          <td>10:10am - 11:10am</td>
+          <td>10:05am - 11:00am</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 3</td>
-          <td>11:10am - 11:35am</td>
+          <td>Invited Talk 3: Marc Pollefeys</td>
+          <td>11:00am - 11:25am</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 4</td>
-          <td>11:35am - 12:00pm</td>
+          <td>Invited Talk 4: Vladlen Koltun</td>
+          <td>11:25am - 11:50am</td>
         </tr>
         <tr>
           <td>Lunch Break</td>
-          <td>12:00pm - 1:30pm</td>
+          <td>11:50am - 1:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 5 (Industry Talks)</td>
-          <td>1:30pm - 2:00pm</td>
+          <td>Industry Participant Talks</td>
+          <td>1:00pm - 2:40pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 6</td>
-          <td>2:00pm - 2:25pm</td>
-        </tr>
-        <tr>
-          <td>Oral 1</td>
-          <td>2:25pm - 2:45pm</td>
-        </tr>
-        <tr>
-          <td>Oral 2</td>
-          <td>2:45pm - 3:05pm</td>
+          <td>Invited Talk 5: Ellie Pavlick</td>
+          <td>2:40pm - 3:05pm</td>
         </tr>
         <tr>
           <td>Coffee Break and Poster Session</td>
           <td>3:05pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 7</td>
+          <td>Invited Talk 6: Jiajun Wu</td>
           <td>4:00pm - 4:25pm</td>
         </tr>
         <tr>
-          <td>Invited Speaker Talk 8</td>
+          <td>Invited Talk 7: Kristen Grauman</td>
           <td>4:25pm - 4:50pm</td>
         </tr>
         <tr>
+          <td>Invited Talk 8: Siddhartha Chaudhuri</td>
+          <td>4:50pm - 5:15pm</td>
+        </tr>
+        <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>4:50pm - 5:40pm</td>
+          <td>5:15pm - 6:00pm</td>
         </tr>
       </tbody>
     </table>
