@@ -144,7 +144,7 @@ acknowledgements: ""
           <td>10:05am - 11:00am</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Marc Pollefeys</td>
+          <td>Invited Talk 3: Johannes L. Schönberger</td>
           <td>11:00am - 11:25am</td>
         </tr>
         <tr>
@@ -407,9 +407,9 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.inf.ethz.ch/personal/marc.pollefeys/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/pollefeys.png" | prepend:site.baseurl }}"></a>
+    <a href="https://demuc.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/johannes.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.inf.ethz.ch/personal/marc.pollefeys/">Marc Pollefeys</a></b> is a full professor and head of the Institute for Visual Computing of the Dept. of Computer Science of ETH Zurich which he joined in 2007.  He leads the Computer Vision and Geometry lab.  Previously he was with the Dept. of Computer Science of the University of North Carolina at Chapel Hill where he started as an assistant professor in 2002 and became an associate professor in 2005.  Before he was a postdoctoral researcher at the Katholieke Universiteit Leuven in Belgium, where he also received his M.S. and Ph.D. degrees in 1994 and 1999, respectively. His main area of research is computer vision.  One of his main research goals is to develop flexible approaches to capture visual representations of real world objects, scenes and events. Dr. Pollefeys has received several prizes for his research, including a Marr prize, an NSF CAREER award, a Packard Fellowship and a ERC Starting Grant. He is the author or co-author of more than 280 peer-reviewed papers.
+      <b><a href="https://demuc.de/">Johannes L. Schönberger</a></b> is a Senior Scientist at the Microsoft Mixed Reality and AI lab in Zürich. He obtained his PhD in Computer Science in the Computer Vision and Geometry Group at ETH Zürich, where he was advised by Marc Pollefeys and co-advised by Jan-Michael Frahm. He received a BSc from TU Munich and an MSc from UNC Chapel Hill. In addition, he also spent time at Microsoft Research, Google, and the German Aerospace Center. His main research interests lie in robust image-based 3D modeling. More broadly, he is interested in computer vision, geometry, structure-from-motion, (multi-view) stereo, localization, optimization, machine learning, and image processing. He developed the open-source software COLMAP - an end-to-end image-based 3D reconstruction software, which achieves state-of-the-art results on recent reconstruction benchmarks.
     </p>
   </div>
 </div><br>
