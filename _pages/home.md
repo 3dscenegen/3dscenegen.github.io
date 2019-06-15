@@ -132,7 +132,7 @@ acknowledgements: ""
           <td>9:00am - 9:25am</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Angela Dai</td>
+          <td>Invited Talk 2: Angela Dai -- "From unstructured range scans to 3d models"</td>
           <td>9:25am - 9:50am</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ acknowledgements: ""
           <td>10:05am - 11:00am</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Johannes L. Schönberger</td>
+          <td>Invited Talk 3: Johannes L. Schönberger -- "3D Scene Reconstruction from Unstructured Imagery"</td>
           <td>11:00am - 11:25am</td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ acknowledgements: ""
           <td>1:00pm - 2:40pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 5: Ellie Pavlick</td>
+          <td>Invited Talk 5: Ellie Pavlick -- "Natural Language Understanding: Where we are stuck and where you can help"</td>
           <td>2:40pm - 3:05pm</td>
         </tr>
         <tr>
@@ -172,11 +172,11 @@ acknowledgements: ""
           <td>4:00pm - 4:25pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 7: Kristen Grauman</td>
+          <td>Invited Talk 7: Kristen Grauman -- "Learning to explore 3D scenes"</td>
           <td>4:25pm - 4:50pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 8: Siddhartha Chaudhuri</td>
+          <td>Invited Talk 8: Siddhartha Chaudhuri -- "Recursive neural networks for scene synthesis"</td>
           <td>4:50pm - 5:15pm</td>
         </tr>
         <tr>
