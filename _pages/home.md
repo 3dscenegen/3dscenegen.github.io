@@ -140,7 +140,7 @@ acknowledgements: ""
           <td>9:50am - 10:05am</td>
         </tr>
         <tr>
-          <td>Coffee Break and Poster Session</td>
+          <td>Coffee Break and Poster Session (Pacific Arena Ballroom, #24-#33)</td>
           <td>10:05am - 11:00am</td>
         </tr>
         <tr>
@@ -164,7 +164,7 @@ acknowledgements: ""
           <td>2:40pm - 3:05pm</td>
         </tr>
         <tr>
-          <td>Coffee Break and Poster Session</td>
+          <td>Coffee Break and Poster Session (Pacific Arena Ballroom, #24-#33)</td>
           <td>3:05pm - 4:00pm</td>
         </tr>
         <tr>
