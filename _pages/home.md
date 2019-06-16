@@ -260,7 +260,6 @@ acknowledgements: ""
     Krisha Mehta, Yash Kotadia<br>
     <a href="https://drive.google.com/file/d/1KYcuWqcSxQ_PeK5FOnjS40cKc9wALjak/view?usp=sharing">Paper</a>
   </div>
-  </div>
 </div>
 
 <br>
@@ -271,7 +270,6 @@ acknowledgements: ""
     Hermann<br>
     <a href="https://drive.google.com/file/d/1bSFiCkqgNM438uNOcdBHrMuM-TtpNpfo/view?usp=sharing">Paper</a> | Poster #30 AM (morning)
   </div>
-  </div>
 </div>
 
 <br>
@@ -280,7 +278,6 @@ acknowledgements: ""
     <span style="font-weight:200;">Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments</span><br>
     Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, and Jan Kautz<br>
     <a href="https://drive.google.com/file/d/11qXyTl2mgo07pWLsdHQRLLs3J9S2C7MS/view?usp=sharing">Paper</a> | Poster #31 AM (morning)
-  </div>
   </div>
 </div>
 
@@ -292,7 +289,6 @@ acknowledgements: ""
     Jover-Alvarez, Jose Garcia-Rodriguez<br>
     <a href="https://drive.google.com/file/d/1ivUa47Y1_xqByQepUz_K3K7dXeQkACqU/view?usp=sharing">Paper</a> | Poster #32 AM (morning)
   </div>
-  </div>
 </div>
 
 <br>
@@ -301,7 +297,6 @@ acknowledgements: ""
     <span style="font-weight:200;">Revealing Scenes by Inverting Structure from Motion Reconstructions</span><br>
     Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha<br>
     <a href="https://drive.google.com/file/d/1iEbA-7-plRImJP4-L9rQPld0yCnO5OdW/view?usp=sharing">Paper</a> | Poster #33 AM (morning)
-  </div>
   </div>
 </div>
 
@@ -312,7 +307,6 @@ acknowledgements: ""
     Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao<br>
     <a href="https://drive.google.com/file/d/1ojxIpBupU8cw0IOlE1G9Ky5GpMTU3Hrc/view?usp=sharing">Paper</a> | Poster #24 PM (afternoon)
   </div>
-  </div>
 </div>
 
 <br>
@@ -321,7 +315,6 @@ acknowledgements: ""
     <span style="font-weight:200;">PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image</span><br>
     Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
     <a href="https://drive.google.com/file/d/1LRwKQjADtWbNpNSNWvJk7iqQzftloGyp/view?usp=sharing">Paper</a> | Poster #25 PM (afternoon)
-  </div>
   </div>
 </div>
 
@@ -332,7 +325,6 @@ acknowledgements: ""
     Yifei Shi, Angel Xuan Chang, Zhelun Wu, Manolis Savva, Kai Xu<br>
     <a href="https://drive.google.com/file/d/1tbQCCOyACVGNvPVdcqHr08WXWTxU26b8/view?usp=sharing">Paper</a>
   </div>
-  </div>
 </div>
 
 <br>
@@ -342,7 +334,6 @@ acknowledgements: ""
     Xiaogang Wang, Bin Zhou, Yahao Shi, Xiaowu Chen, Qinping Zhao, Kai Xu<br>
     <a href="https://drive.google.com/file/d/1Xto0tZlYx4jAxeCVuUlLycWErysCJiTc/view?usp=sharing">Paper</a> | Poster #26 PM (afternoon)
   </div>
-  </div>
 </div>
 
 <br>
@@ -351,7 +342,6 @@ acknowledgements: ""
     <span style="font-weight:200;">Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks</span><br>
     Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese<br>
     <a href="https://drive.google.com/file/d/1S7wO9pOdaS7W_v4nm-DSjKbRmU3LX0qk/view?usp=sharing">Paper</a> | Poster #27 PM (afternoon)
-  </div>
   </div>
 </div>
 
