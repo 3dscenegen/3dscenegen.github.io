@@ -132,7 +132,7 @@ acknowledgements: ""
           <td>9:00am - 9:25am</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Angela Dai</td>
+          <td>Invited Talk 2: Angela Dai -- "From unstructured range scans to 3d models"</td>
           <td>9:25am - 9:50am</td>
         </tr>
         <tr>
@@ -144,7 +144,7 @@ acknowledgements: ""
           <td>10:05am - 11:00am</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Marc Pollefeys</td>
+          <td>Invited Talk 3: Johannes L. Schönberger -- "3D Scene Reconstruction from Unstructured Imagery"</td>
           <td>11:00am - 11:25am</td>
         </tr>
         <tr>
@@ -160,7 +160,7 @@ acknowledgements: ""
           <td>1:00pm - 2:40pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 5: Ellie Pavlick</td>
+          <td>Invited Talk 5: Ellie Pavlick -- "Natural Language Understanding: Where we are stuck and where you can help"</td>
           <td>2:40pm - 3:05pm</td>
         </tr>
         <tr>
@@ -172,11 +172,11 @@ acknowledgements: ""
           <td>4:00pm - 4:25pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 7: Kristen Grauman</td>
+          <td>Invited Talk 7: Kristen Grauman -- "Learning to explore 3D scenes"</td>
           <td>4:25pm - 4:50pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 8: Siddhartha Chaudhuri</td>
+          <td>Invited Talk 8: Siddhartha Chaudhuri -- "Recursive neural networks for scene synthesis"</td>
           <td>4:50pm - 5:15pm</td>
         </tr>
         <tr>
@@ -199,7 +199,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</span><br>
-    Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove
+    Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, Steven Lovegrove<br>
+    <a href="https://drive.google.com/file/d/1oYUQOicJ-gIcLaQUnrE23azPDMW5VphP/view?usp=sharing">Paper</a> | Poster #24 AM (morning)
   </div>
 </div>
 
@@ -207,7 +208,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">DeepPerimeter: Indoor Boundary Estimation from Posed Monocular Sequences</span><br>
-    Ameya Phalak, Zhao Chen, Darvin Yi, Khushi Gupta, Vijay Badrinarayanan, Andrew Rabinovich
+    Ameya Phalak, Zhao Chen, Darvin Yi, Khushi Gupta, Vijay Badrinarayanan, Andrew Rabinovich<br>
+    <a href="https://drive.google.com/file/d/1fGI5oRWTg2Bu5the1rNONbrS9BQX00bA/view?usp=sharing">Paper</a> | Poster #25 AM (morning)
   </div>
 </div>
 
@@ -216,7 +218,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">Learning a Generative Model for Multi-Step Human-Object Interactions from
       Videos</span><br>
-    He Wang, Sören Pirk, Ersin Yumer, Vladimir G. Kim, Ozan Sener, Srinath Sridhar, Leonidas J. Guibas
+    He Wang, Sören Pirk, Ersin Yumer, Vladimir G. Kim, Ozan Sener, Srinath Sridhar, Leonidas J. Guibas<br>
+    <a href="https://drive.google.com/file/d/1fGI5oRWTg2Bu5the1rNONbrS9BQX00bA/view?usp=sharing">Paper</a> | Poster #26 AM (morning)
   </div>
 </div>
 
@@ -225,7 +228,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">Scenic: A Language for Scenario Specification and Scene Generation</span><br>
     Daniel J. Fremont, Xiangyu Yue, Tommaso Dreossi, Shromona Ghosh, Alberto L. Sangiovanni-Vincentelli, Sanjit A.
-    Seshia
+    Seshia<br>
+    <a href="https://drive.google.com/file/d/1pNx5pVv9lezequbXwuT2A0ZNTDblWzjd/view?usp=sharing">Paper</a> | Poster #27 AM (morning)
   </div>
 </div>
 
@@ -234,7 +238,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data
       Augmentation</span><br>
-    Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen
+    Cheng Sun, Chi-Wei Hsiao, Min Sun, Hwann-Tzong Chen<br>
+    <a href="https://drive.google.com/file/d/1NmylUpsThqBxK6MmgVXgsovwmFARynuX/view?usp=sharing">Paper</a> | Poster #28 AM (morning)
   </div>
 </div>
 
@@ -242,7 +247,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Towards Training Person Detectors from Synthetic RGB-D Data</span><br>
-    Timm Linder, Michael Johan Hernandez Leon, Narunas Vaskevicius, Kai O. Arras
+    Timm Linder, Michael Johan Hernandez Leon, Narunas Vaskevicius, Kai O. Arras<br>
+    <a href="https://drive.google.com/file/d/1OnufiJsY5-H0jjaaCDE99VMgDWg1RH1K/view?usp=sharing">Paper</a> | Poster #29 AM (morning)
   </div>
 </div>
 
@@ -251,7 +257,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid
       Pooling</span><br>
-    Krisha Mehta, Yash Kotadia
+    Krisha Mehta, Yash Kotadia<br>
+    <a href="https://drive.google.com/file/d/1KYcuWqcSxQ_PeK5FOnjS40cKc9wALjak/view?usp=sharing">Paper</a>
   </div>
 </div>
 
@@ -260,7 +267,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">Learning to Encode Spatial Relations from Natural Language</span><br>
     Tiago Ramalho, Tomas Kocisky, Frederic Besse, S. M. Ali Eslami, Gabor Melis, Fabio Viola, Phil Blunsom, Karl Moritz
-    Hermann
+    Hermann<br>
+    <a href="https://drive.google.com/file/d/1bSFiCkqgNM438uNOcdBHrMuM-TtpNpfo/view?usp=sharing">Paper</a> | Poster #30 AM (morning)
   </div>
 </div>
 
@@ -268,7 +276,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments</span><br>
-    Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, and Jan Kautz
+    Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, and Jan Kautz<br>
+    <a href="https://drive.google.com/file/d/11qXyTl2mgo07pWLsdHQRLLs3J9S2C7MS/view?usp=sharing">Paper</a> | Poster #31 AM (morning)
   </div>
 </div>
 
@@ -277,7 +286,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">The RobotriX: A Large-scale Dataset of Embodied Robots in Virtual Reality</span><br>
     Alberto Garcia-Garcia, Pablo Martinez-Gonzalez, Sergiu Oprea, John A. Castro-Vargas, Sergio Orts-Escolano, Alvaro
-    Jover-Alvarez, Jose Garcia-Rodriguez
+    Jover-Alvarez, Jose Garcia-Rodriguez<br>
+    <a href="https://drive.google.com/file/d/1ivUa47Y1_xqByQepUz_K3K7dXeQkACqU/view?usp=sharing">Paper</a> | Poster #32 AM (morning)
   </div>
 </div>
 
@@ -285,7 +295,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Revealing Scenes by Inverting Structure from Motion Reconstructions</span><br>
-    Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha
+    Francesco Pittaluga, Sanjeev J. Koppal, Sing Bing Kang, Sudipta N. Sinha<br>
+    <a href="https://drive.google.com/file/d/1iEbA-7-plRImJP4-L9rQPld0yCnO5OdW/view?usp=sharing">Paper</a> | Poster #33 AM (morning)
   </div>
 </div>
 
@@ -293,7 +304,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding</span><br>
-    Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao
+    Zehao Yu, Jia Zheng, Dongze Lian, Zihan Zhou, Shenghua Gao<br>
+    <a href="https://drive.google.com/file/d/1ojxIpBupU8cw0IOlE1G9Ky5GpMTU3Hrc/view?usp=sharing">Paper</a> | Poster #24 PM (afternoon)
   </div>
 </div>
 
@@ -301,7 +313,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image</span><br>
-    Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz
+    Chen Liu, Kihwan Kim, Jinwei Gu, Yasutaka Furukawa, Jan Kautz<br>
+    <a href="https://drive.google.com/file/d/1LRwKQjADtWbNpNSNWvJk7iqQzftloGyp/view?usp=sharing">Paper</a> | Poster #25 PM (afternoon)
   </div>
 </div>
 
@@ -309,7 +322,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Hierarchy Denoising Recursive Autoencoders for 3D Scene Layout</span><br>
-    Yifei Shi, Angel Xuan Chang, Zhelun Wu, Manolis Savva, Kai Xu
+    Yifei Shi, Angel Xuan Chang, Zhelun Wu, Manolis Savva, Kai Xu<br>
+    <a href="https://drive.google.com/file/d/1tbQCCOyACVGNvPVdcqHr08WXWTxU26b8/view?usp=sharing">Paper</a>
   </div>
 </div>
 
@@ -317,7 +331,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Shape2Motion: Joint Analysis of Motion Parts and Attributes from 3D Shapes</span><br>
-    Xiaogang Wang, Bin Zhou, Yahao Shi, Xiaowu Chen, Qinping Zhao, Kai Xu
+    Xiaogang Wang, Bin Zhou, Yahao Shi, Xiaowu Chen, Qinping Zhao, Kai Xu<br>
+    <a href="https://drive.google.com/file/d/1Xto0tZlYx4jAxeCVuUlLycWErysCJiTc/view?usp=sharing">Paper</a> | Poster #26 PM (afternoon)
   </div>
 </div>
 
@@ -325,7 +340,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks</span><br>
-    Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese
+    Kuan Fang, Alexander Toshev, Li Fei-Fei, Silvio Savarese<br>
+    <a href="https://drive.google.com/file/d/1S7wO9pOdaS7W_v4nm-DSjKbRmU3LX0qk/view?usp=sharing">Paper</a> | Poster #27 PM (afternoon)
   </div>
 </div>
 
@@ -334,7 +350,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D
       Object Understanding</span><br>
-    Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su
+    Kaichun Mo, Shilin Zhu, Angel X. Chang, Li Yi, Subarna Tripathi, Leonidas J. Guibas, Hao Su<br>
+    <a href="https://drive.google.com/file/d/16Z8UKKGFVjrA9V4N2MLbGBZVKR1KAWEj/view?usp=sharing">Paper</a> | Poster #28 PM (afternoon)
   </div>
 </div>
 
@@ -342,7 +359,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Learning Implicit Fields for Generative Shape Modeling</span><br>
-    Zhiqin Chen, Hao Zhang
+    Zhiqin Chen, Hao Zhang<br>
+    <a href="https://drive.google.com/file/d/1ufm_7J6pbVMxHTdrv__bhNK1kL5obSbc/view?usp=sharing">Paper</a> | Poster #29 PM (afternoon)
   </div>
 </div>
 
@@ -350,7 +368,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">Learning 3D Human Dynamics from Video</span><br>
-    Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik
+    Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik<br>
+    <a href="https://arxiv.org/abs/1812.01601">Paper</a> | Poster #30 PM (afternoon)
   </div>
 </div>
 
@@ -358,7 +377,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <span style="font-weight:200;">PCN: Point Completion Network</span><br>
-    Wentao Yuan, Tejas Khot, David Held, Christoph Mertz, Martial Hebert
+    Wentao Yuan, Tejas Khot, David Held, Christoph Mertz, Martial Hebert<br>
+    <a href="https://drive.google.com/file/d/1rrS3bB4QnNs4GX8ZNHHX1VkoYCaOz5G0/view?usp=sharing">Paper</a> | Poster #31 PM (afternoon)
   </div>
 </div>
 
@@ -367,7 +387,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">TextureNet: Consistent Local Parametrizations for Learning from High-Resolution
       Signals on Meshes </span><br>
-    Jingwei Huang, Haotian Zhang, Li Yi, Thomas Funkhouser, Matthias Niessner, Leonidas Guibas
+    Jingwei Huang, Haotian Zhang, Li Yi, Thomas Funkhouser, Matthias Niessner, Leonidas Guibas<br>
+    <a href="https://arxiv.org/abs/1812.00020">Paper</a> | Poster #32 PM (afternoon)
   </div>
 </div>
 
@@ -376,7 +397,8 @@ acknowledgements: ""
   <div class="col-md-12">
     <span style="font-weight:200;">Fast and Flexible Indoor Scene Synthesis via Deep Convolutional Generative
       Models</span><br>
-    Daniel Ritchie, Kai Wang, Yu-an Lin
+    Daniel Ritchie, Kai Wang, Yu-an Lin<br>
+    <a href="https://arxiv.org/abs/1811.12463">Paper</a> | Poster #33 PM (afternoon)
   </div>
 </div>
 
@@ -407,9 +429,9 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.inf.ethz.ch/personal/marc.pollefeys/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/pollefeys.png" | prepend:site.baseurl }}"></a>
+    <a href="https://demuc.de/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/johannes.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://www.inf.ethz.ch/personal/marc.pollefeys/">Marc Pollefeys</a></b> is a full professor and head of the Institute for Visual Computing of the Dept. of Computer Science of ETH Zurich which he joined in 2007.  He leads the Computer Vision and Geometry lab.  Previously he was with the Dept. of Computer Science of the University of North Carolina at Chapel Hill where he started as an assistant professor in 2002 and became an associate professor in 2005.  Before he was a postdoctoral researcher at the Katholieke Universiteit Leuven in Belgium, where he also received his M.S. and Ph.D. degrees in 1994 and 1999, respectively. His main area of research is computer vision.  One of his main research goals is to develop flexible approaches to capture visual representations of real world objects, scenes and events. Dr. Pollefeys has received several prizes for his research, including a Marr prize, an NSF CAREER award, a Packard Fellowship and a ERC Starting Grant. He is the author or co-author of more than 280 peer-reviewed papers.
+      <b><a href="https://demuc.de/">Johannes L. Schönberger</a></b> is a Senior Scientist at the Microsoft Mixed Reality and AI lab in Zürich. He obtained his PhD in Computer Science in the Computer Vision and Geometry Group at ETH Zürich, where he was advised by Marc Pollefeys and co-advised by Jan-Michael Frahm. He received a BSc from TU Munich and an MSc from UNC Chapel Hill. In addition, he also spent time at Microsoft Research, Google, and the German Aerospace Center. His main research interests lie in robust image-based 3D modeling. More broadly, he is interested in computer vision, geometry, structure-from-motion, (multi-view) stereo, localization, optimization, machine learning, and image processing. He developed the open-source software COLMAP - an end-to-end image-based 3D reconstruction software, which achieves state-of-the-art results on recent reconstruction benchmarks.
     </p>
   </div>
 </div><br>
