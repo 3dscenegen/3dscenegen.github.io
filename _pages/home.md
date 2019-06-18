@@ -17,7 +17,7 @@ acknowledgements: ""
     <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
     <center>Sunday June 16 2019, 8:45am -- 5:40pm, 103A (Posters Sessions: Pacific Arena Ballroom)</center>
     <br/>
-    <strong><span style="color:#e74c3c;font-weight:400;">Submit your questions for our closing panel session here:</span></strong> <a href='https://forms.gle/3aYQw8jDQdgBAoX1A'>Submit Panelist Questions</a>
+    <strong><span style="color:#e74c3c;font-weight:400;">If you attended the workshop, please fill out our survey! This helps us improve future workshop offerings.</span></strong> <a href='https://forms.gle/fvcseYdQVzcoeY7u5'>Click here for survey</a>
   </div>
 </div>
 
